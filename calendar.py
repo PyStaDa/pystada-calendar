@@ -31,6 +31,9 @@ event.add('exdate', datetime(2014, 5, 15, 19, 30, 0, tzinfo=tz))
 event.add('exdate', datetime(2014, 7, 16, 19, 30, 0, tzinfo=tz))
 event.add('exdate', datetime(2014, 9, 18, 19, 30, 0, tzinfo=tz))
 event.add('exdate', datetime(2014, 11, 12, 19, 30, 0, tzinfo=tz))
+event.add('exdate', datetime(2015, 1, 15, 19, 30, 0, tzinfo=tz))
+event.add('exdate', datetime(2015, 3, 11, 19, 30, 0, tzinfo=tz))
+event.add('exdate', datetime(2015, 5, 14, 19, 30, 0, tzinfo=tz))
 
 cal.add_component(event)
 
